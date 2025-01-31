@@ -1,0 +1,12 @@
+<Anagrafica>
+	<Persona>
+		<Nome>Matteo</Nome>
+		<Cognome>Nessi</Cognome>
+		<Indirizzo>Via Verdi, 24</Indirizzo>
+		<Citta>Cornaredo</Citta>
+		<CAP>20007</CAP>
+		<Provincia>MI</Provincia>
+		<Recapito telefonico>+39 348 590 7684</Recapito telefonico>
+		<DataNascita>10-07-2006</DataNascita>
+	</Persona>
+</Anagrafica>
